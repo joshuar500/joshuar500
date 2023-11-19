@@ -6,6 +6,8 @@ I'm a Software Engineer with a penchant for design. I live in Sunny Southern Cal
 
 ⚡ My main interests are both technical and finding automated solutions for complex manual problems.
 
+You can find my website 👈 (if you're on desktop) and follow the links to get my contact info. Thanks for reading~~
+
 <!--
 **joshuar500/joshuar500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
