@@ -1,4 +1,10 @@
-### Hi there 👋
+### HI 👋, I'm Josh.
+
+I'm a Software Engineer with a penchant for design. I live in Sunny Southern California with my beautiful wife, daughter, and 2 kitties in a very old creaky craftsman.
+
+🔭 I’m currently working as a Full-Stack Engineer for a couple of companies using NodeJS, PHP, Vue, and React. I'm comfortable in Linux, have a bit of DevOps experience, and just really well-rounded for product-focused tech companies.
+
+⚡ My main interests are both technical and finding automated solutions for complex manual problems.
 
 <!--
 **joshuar500/joshuar500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
